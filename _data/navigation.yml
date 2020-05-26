@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+- title: Outdoor Programmer
+  url: /outdoor-programmer/
+  excerpt: "Chronicles of Tent Life During COVID19."
   image: 400x250.gif
 
 - title: Sample Articles
