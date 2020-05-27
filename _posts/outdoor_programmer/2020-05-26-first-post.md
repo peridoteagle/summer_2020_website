@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "#covidtentlife"
-categories: articles
+categories: outdoor_programmer
 modified: 2020-05-01T16:28:11-04:00
 tags: [tent][outdoor_programmer]
 comments: false
