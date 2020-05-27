@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.outdoor_programmer %}
+{% for post in site.categories.outdoor-programmer %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
