@@ -3,8 +3,11 @@
 - title: Home
   url: /
 
-- title: Getting Started
-  url: /getting-started/
+- title: COVID19 Tent Blog
+  url: /outdoor-programmer/
+
+- title: Other Articles
+  url: /articles/
 
 - title: About
   url: /about/
