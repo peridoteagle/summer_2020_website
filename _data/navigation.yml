@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: COVID19 Tent Blog
+- title: Outdoor Programmer
   url: /outdoor-programmer/
-  excerpt: "Chronicles of Tent Life During COVID19."
+  excerpt: "Chronicles of Programming + Nature."
   image: 400x250.gif
 
 - title: Other Articles
@@ -12,5 +12,5 @@
 
 - title: About
   url: /about/
-  excerpt: "All about Emily Hadley."
+  excerpt: "All About Emily Hadley."
   image: 400x250.gif
