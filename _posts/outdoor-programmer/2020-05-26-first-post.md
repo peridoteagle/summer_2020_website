@@ -1,17 +1,11 @@
 ---
-layout: media
+layout: article
 title: "The Outdoor Programmer Begins COVID Tent Life"
 categories: outdoor-programmer
 modified: 2020-05-01T16:28:11-04:00
 tags: [tent][outdoor-programmer]
 comments: true
 ads: false
-image:
-  feature: &image tent-800x800.jpg
-  path: *image
-  teaser: tent-400x250.jpg
-  credit: Aloha Camps
-  creditlink: http://www.alohafoundation.org
 ---
 A number of years ago, I spent two summers working as a counselor at a sleep-away camp in Vermont. One of my favorite parts of the job was living in a canvas platform tent for eight weeks. I woke up to the morning cacophony of songbirds in the pine trees and fell asleep to the woeful wails of loons on the lake. I could feel the rays of sunlight when the sun rose and the boom of thunder when a storm passed overhead. I felt both more connected to myself and to the world.
 
