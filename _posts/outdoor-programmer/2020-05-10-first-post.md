@@ -5,7 +5,7 @@ categories: outdoor-programmer
 modified: 2020-05-10T16:28:11-04:00
 tags: [outdoor-programmer]
 image:
-  feature:
+  feature: tent-800x800.png
   path: *image
   teaser: tent_location.jpg
 comments: true
@@ -16,7 +16,6 @@ share: false
 I wanted to work remotely, safely see family, and be outside. So I built a canvas platform tent.
 
 {% include toc.html %}
-
 
 A number of years ago, I spent two summers working as a counselor at a sleep-away camp in Vermont. One of my favorite parts of the job was living in a canvas platform tent for eight weeks. I woke up to the morning cacophony of songbirds in the pine trees and fell asleep to the woeful wails of loons on the lake. I could feel the rays of sunlight when the sun rose and the boom of thunder when a storm passed overhead. I felt both more connected to myself and to the world.
 
