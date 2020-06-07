@@ -1,14 +1,19 @@
 ---
-layout: article
+layout: media
 title: "The Outdoor Programmer Begins COVID Tent Life"
 categories: outdoor-programmer
-modified: 2020-05-01T16:28:11-04:00
+modified: 2020-05-10T16:28:11-04:00
 tags: [outdoor-programmer]
+image:
+  feature:
+  path: *image
+  teaser: tent_location.jpg
 comments: true
 ads: false
+share: false
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+I wanted to work remotely, safely see family, and be outside. So I built a canvas platform tent.
 
 {% include toc.html %}
 
