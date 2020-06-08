@@ -5,7 +5,7 @@ categories: outdoor-programmer
 modified: 2020-05-10T16:28:11-04:00
 tags: [outdoor-programmer]
 image:
-  feature: tent-800x800.png
+  feature: &image tent-800x800.png
   path: *image
   teaser: tent_location.jpg
 comments: true
