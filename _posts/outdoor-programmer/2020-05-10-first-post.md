@@ -7,7 +7,7 @@ tags: [outdoor-programmer]
 image:
   feature: &image tent-800x800.png
   path: *image
-  teaser: tent_location.jpg
+  teaser: tent-400x250.png
 comments: true
 ads: false
 share: false
