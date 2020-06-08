@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "About"
-date: 2020-01-01T09:44:20-04:00
-modified: 2020-01-01T14:56:44-04:00
+date: 2020-05-01T09:44:20-04:00
+modified: 2020-05-01T14:56:44-04:00
 excerpt: "All About Emily Hadley."
 image:
   feature:
