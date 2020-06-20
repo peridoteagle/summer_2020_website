@@ -24,3 +24,7 @@ Yet tents have an incredibly rich history of use that extends far beyond modern 
 I recognize the privilege that I have as a young, white, able-bodied woman choosing to live in a tent, particularly when I could instead choose to live in an apartment or a similar structure. I am making choices to invest in a quality tent and construction assistance that others do not have. In reflecting on this choice, I decided to make a recurring monthly financial commitment to the following organizations that support shelter:
 * [Housing for New Hope](https://www.housingfornewhope.org/): supports rapid re-housing, permanent supportive housing, and affordable housing in the Durham community
 * [Annunciation House](https://annunciationhouse.org/): supports hospitality including emergency shelter for migrants, immigrants, and refugees in the El Paso border region
+
+I selected these organizations as they provide immediate shelter to specific communities. I aspire to continue to learn more about affordable housing and the systemic issues that BIPOC, LGBTQ, senior, veteran, and differently-abled communities face. Some resources to highlight:
+* [Background on the 2019 Durham Affordable Housing Bond](https://indyweek.com/news/durham/durham-largest-affordable-housing-bond-north-carolina/), the largest affordable housing measure passed in North Carolina history
+* [Evicted](https://www.evictedbook.com/): an ethnography about the housing crisis and the very human, very tragic consequences of eviction
