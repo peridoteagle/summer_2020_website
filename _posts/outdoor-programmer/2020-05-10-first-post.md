@@ -17,7 +17,7 @@ I wanted to work remotely, safely see family, and be outside. So I built a canva
 
 {% include toc.html %}
 
-A number of years ago, I spent two summers working as a counselor at a sleep-away camp in Vermont. One of my favorite parts of the job was living in a canvas platform tent for eight weeks. I woke up to the morning cacophony of songbirds in the pine trees and fell asleep to the woeful wails of loons on the lake. I could feel the rays of sunlight when the sun rose and the boom of thunder when a storm passed overhead. I felt both more connected to myself and to the world.
+A number of years ago, I spent two summers working as a counselor at a sleep-away camp in Vermont. One of my favorite parts of the job was living in a canvas platform tent for eight weeks (pictured above). I woke up to the morning cacophony of songbirds in the pine trees and fell asleep to the woeful wails of loons on the lake. I could feel the rays of sunlight when the sun rose and the boom of thunder when a storm passed overhead. I felt both more connected to myself and to the world.
 
 In this crazy time of staying at home during COVID19, many of us have experienced how the days blur together. We look up, and another week has passed. In the past two months, I’ve spent more time on computer and phone screens than ever before, and yet I feel incredibly disconnected. I’ve missed my family and I’ve longed to be outside.
 
