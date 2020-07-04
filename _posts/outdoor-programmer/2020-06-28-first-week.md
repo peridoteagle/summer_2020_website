@@ -5,9 +5,9 @@ categories: outdoor-programmer
 modified: 2020-06-28T16:28:11-04:00
 tags: [outdoor-programmer]
 image:
-  feature: &image tent_location_header.jpg
+  feature: &image initial_tent_1000.png
   path: *image
-  teaser: tent_location.jpg
+  teaser: initial_tent_400x250.png
 comments: true
 ads: false
 share: false
