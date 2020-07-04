@@ -13,7 +13,7 @@ ads: false
 share: false
 ---
 
-Tent life can have a dangerous side. Here is how I am managing them.
+Tent life can have a dangerous side.
 
 {% include toc.html %}
 
